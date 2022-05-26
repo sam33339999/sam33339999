@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning: `Rust`, `PHP`
+- 💬 contact me: <a href = "mailto: sam33339999@gmail.com">sam.zheng</a>
+
