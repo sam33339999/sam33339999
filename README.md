@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning: `Rust`, `PHP`
 - 💬 contact me: <a href = "mailto: sam33339999@gmail.com">sam.zheng</a>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sam33339999&show_icons=true&theme=gruvbox)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sam33339999&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
