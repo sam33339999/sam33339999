@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning: `Rust`, `PHP`
 - 💬 contact me: <a href = "mailto: sam33339999@gmail.com">sam.cheng</a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sam33339999&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sam33339999&show_icons=true&theme=gruvbox&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sam33339999&theme=gruvbox&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 - write a docker-compose for raspberry pi 4 -> from laradock [raspberry-php](https://github.com/sam33339999/raspberry-php)
