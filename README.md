@@ -13,6 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+mysql-poll
+mysql-cluster
+redis-cluster
+DB R/W Splitting
 -->
 - 🔭 I’m currently working on `rpi-docker`, `Rust`, `message queue`
 - 🌱 I’m currently learning: `Rust`, `PHP`
